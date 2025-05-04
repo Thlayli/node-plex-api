@@ -1,6 +1,8 @@
-# plex-api [![Build Status](https://api.travis-ci.org/phillipj/node-plex-api.png?branch=master)](http://travis-ci.org/phillipj/node-plex-api)
+# plex-api 
 
 Small module which helps you query the Plex Media Server HTTP API.
+
+Work-in-progress. Trying to fix deprecation warning in 2025.
 
 ## Usage
 
