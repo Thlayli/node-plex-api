@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "plex-api-credentials": "3.0.1",
-    "plex-api-headers": "2.1.0",
+    "plex-api-headers": "github:Thlayli/node-plex-api-headers",
     "request": "^2.87.0",
     "uuid": "^3.0.0",
     "xml2js": "0.4.16"
